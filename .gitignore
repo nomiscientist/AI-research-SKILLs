@@ -32,7 +32,6 @@ env/
 .venv
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -66,8 +65,6 @@ checkpoints/
 *.log
 
 # Environment variables
-.env
-.env.local
 
 # Temporary files
 tmp/
@@ -82,3 +79,5 @@ temp/
 *_extracted.json
 output/
 *.zip
+config.bat
+node_modules
